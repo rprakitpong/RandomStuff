@@ -1,0 +1,3 @@
+Bore: 1.5in diameter
+Stroke: 1.3in
+Stroke can easily be modified by modifying tube length.
