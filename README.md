@@ -1,2 +1,4 @@
 # RandomStuff
-Random Small Projects
+Small Projects
+
+There should be a README at each project's root directory
